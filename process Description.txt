@@ -1,0 +1,22 @@
+Issue Book Process Description
+•	Login by MAJU Student ID &Password
+•	Search book  by the Title + Edition of the book + Author
+•	Check the  availability of the Book that the book is physically available in the library or not
+•	If yes
+	then issue the book  for the student who applied 
+	and also give that student the return date of that  book 
+	update availability section and issued the book 
+
+•	if not 
+	then simply cancel the request and show the message that book is unavailable
+
+Book Print Request
+•	Login by MAJU Student ID &Password
+•	Selection of book which you want as a print 
+•	Number of copies 
+•	Print quality like coloured or black and white 
+•	If coloured 
+	Print the book in colour
+•	If black and white 
+	Print the book In black and white
+•	generate the fees of printing  according to the quality you selected 
