@@ -20,3 +20,16 @@ Book Print Request
 •	If black and white 
 	Print the book In black and white
 •	generate the fees of printing  according to the quality you selected 
+
+
+
+BOOK RETURN DESCRIPTION:
+
+student login into system
+return the book to admin
+Admin checked the book is same for borrowed book.
+before te return book check borrowing date.
+if or not 
+if  book is on time no fine are charged.
+else book is too late return then libaray system charged the fine .
+student paid the fine than admin return the card.
