@@ -1,0 +1,46 @@
+Issue Book Process Description
+•	Login by MAJU Student ID &Password
+•	Search book  by the Title + Edition of the book + Author
+•	Check the  availability of the Book that the book is physically available in the library or not
+•	If yes
+	then issue the book  for the student who applied 
+	and also give that student the return date of that  book 
+	update availability section and issued the book 
+
+•	if not 
+	then simply cancel the request and show the message that book is unavailable
+
+Book Print Request
+•	Login by MAJU Student ID &Password
+•	Selection of book which you want as a print 
+•	Number of copies 
+•	Print quality like coloured or black and white 
+•	If coloured 
+	Print the book in colour
+•	If black and white 
+	Print the book In black and white
+•	generate the fees of printing  according to the quality you selected 
+
+
+
+BOOK RETURN DESCRIPTION:
+
+student login into system
+return the book to admin
+Admin checked the book is same for borrowed book.
+before te return book check borrowing date.
+if or not 
+if  book is on time no fine are charged.
+else book is too late return then libaray system charged the fine .
+student paid the fine than admin return the card.
+
+
+INVENTORY MAINTAIN:
+ Create an account.
+ Log in to the system.
+ Check the records of book.
+ Check whether the books are available or not.
+ If the books are available of all departments then check the book availability of each department
+is equal to 10.
+ If the books are not equal to 10 then add or update books.
+ Else books are equal to 10 then show the message that the set of books are complete.
